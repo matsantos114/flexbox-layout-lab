@@ -1,0 +1,31 @@
+body{
+   
+}
+.xyz-header{
+    border: 1px black solid;
+   display: inline-flex;
+   width: 100%;
+}
+.title{
+    display: inline-flex;
+flex-direction: row;
+justify-content: flex-start;
+}
+.nav{
+display: inline-flex;
+flex-direction: reverse-row;
+justify-content: flex-end;
+}
+
+.figure{
+    
+}
+.side-paragraphs{
+    
+}
+.ourteam{
+    
+}
+.ourmission{
+    
+}
