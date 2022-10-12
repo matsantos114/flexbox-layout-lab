@@ -13,12 +13,11 @@ flex-direction: row;
 justify-content: flex-start;
 }
 .nav{
-    margin-right: 50px;
-    padding-right: 20px;
-    min-width: 200px;
+   min-width: 200px;
     border: 1px black solid;
 display: inline-flex;
 justify-content: space-between;
+
 
 
 }
